@@ -1,6 +1,6 @@
-# Taiga Personal Alerts — desktop app
+# Taiga Agent — desktop app
 
-Installers for **Taiga Personal Alerts**, the desktop app that reviews your Taiga projects with Claude Code on your own laptop (using your own Claude Pro or Max subscription) and shows the findings on your Taiga dashboard.
+Installers for **Taiga Agent**, the desktop app that reviews your Taiga projects with Claude Code on your own laptop (using your own Claude Pro or Max subscription) and shows the findings on your Taiga dashboard.
 
 This repository only hosts the installers and the auto-update files. The source code lives in the private Taiga repository.
 
@@ -8,9 +8,9 @@ This repository only hosts the installers and the auto-update files. The source 
 
 | Computer | Installer |
 | --- | --- |
-| macOS (Apple Silicon and Intel) | [Taiga-Personal-Alerts.dmg](https://github.com/3DPC-CODE/taiga-desktop-releases/releases/latest/download/Taiga-Personal-Alerts.dmg) |
-| Windows | [Taiga-Personal-Alerts-Setup.exe](https://github.com/3DPC-CODE/taiga-desktop-releases/releases/latest/download/Taiga-Personal-Alerts-Setup.exe) |
-| Linux | [AppImage](https://github.com/3DPC-CODE/taiga-desktop-releases/releases/latest/download/Taiga-Personal-Alerts.AppImage) · [.deb](https://github.com/3DPC-CODE/taiga-desktop-releases/releases/latest/download/Taiga-Personal-Alerts.deb) |
+| macOS (Apple Silicon and Intel) | [Taiga-Agent.dmg](https://github.com/3DPC-CODE/taiga-desktop-releases/releases/latest/download/Taiga-Agent.dmg) |
+| Windows | [Taiga-Agent-Setup.exe](https://github.com/3DPC-CODE/taiga-desktop-releases/releases/latest/download/Taiga-Agent-Setup.exe) |
+| Linux | [AppImage](https://github.com/3DPC-CODE/taiga-desktop-releases/releases/latest/download/Taiga-Agent.AppImage) · [.deb](https://github.com/3DPC-CODE/taiga-desktop-releases/releases/latest/download/Taiga-Agent.deb) |
 
 All versions: [Releases](https://github.com/3DPC-CODE/taiga-desktop-releases/releases).
 
